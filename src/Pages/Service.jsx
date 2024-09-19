@@ -90,7 +90,7 @@ const Service = () => {
                   <div className="col-lg-3 box1">
                     <div className="image zoom-out">
                       <img
-                        src="https://scontent.fbek1-1.fna.fbcdn.net/v/t39.30808-6/452483161_359983527205183_7703735236843550116_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=XuKLcsrXfxUQ7kNvgFa3m-0&_nc_ht=scontent.fbek1-1.fna&_nc_gid=ATW0NAiXD3FvXY1NH0-4yLl&oh=00_AYBpiRcLsLqA-zPkse9KFTpc9nvaf0komWeaqCwxbnuxCQ&oe=66EB8C72"
+                        src="Images/work-4.png"
                         alt="image-A"
                         className="image w-100 py-2"
                       />
@@ -105,7 +105,7 @@ const Service = () => {
                   <div className="col-lg-3 box1">
                     <div className="image zoom-out ">
                       <img
-                        src="https://scontent.fbek1-3.fna.fbcdn.net/v/t39.30808-6/454926058_331391593400212_8912033152332405992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=ScmKYcOCBX4Q7kNvgFmjrF-&_nc_ht=scontent.fbek1-3.fna&_nc_gid=A_7cDUKBo-uim36QCdYvegQ&oh=00_AYCI5HKhtgP3HILkihST4qO4wyISgRSxpCG3dRJ0gXdmmg&oe=66EB77DC"
+                        src="Images/work-5.png"
                         alt="image-A"
                         className="image w-100 py-2 "
                       />
@@ -154,7 +154,7 @@ const Service = () => {
                   <div className="col-lg-3 box1">
                     <div className="image zoom-out">
                       <img
-                        src="https://scontent.fbek1-3.fna.fbcdn.net/v/t39.30808-6/455995012_355608930978093_2299396080176630037_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=_RYm5MZGseIQ7kNvgHRxAo4&_nc_ht=scontent.fbek1-3.fna&oh=00_AYBUiSQm39vcXbkQzKsUR7agSeUYpgVXv_INgGoxUaqK_A&oe=66EB7369"
+                        src="Images/work-6.png"
                         alt="image-A"
                         className="image w-100 py-2 "
                       />
