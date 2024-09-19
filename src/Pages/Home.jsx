@@ -367,7 +367,7 @@ const Home = () => {
             <div className="col-6 text-start">
               <p>
                 <i>
-                  Copyright@2023,<b className="text-warning">Riya Dhiman</b>
+                  Copyright@2024,<b className="text-warning">Riya Dhiman</b>
                   .All Rights Reserved.
                 </i>
               </p>
